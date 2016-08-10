@@ -1,5 +1,5 @@
 # skills
-Skills is a jquery plugin to create your own skill set in your web, widely used for portafolio websites
+Skills is a jquery plugin to create your own skill bars in your web, bars get completed while the user scroll down ,this kind of skill bars are widely used for portafolio websites just like mine portafolio.msepulveda.tk, take a look to see this plugin in action.
 
 ##  just add this html markup
 
